@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MADGDF: Dual-Channel Detection of Memory Poisoning in Multi-Agent Systems Using Graph-State Monitoring and Canary Verification"
+version: "1.0.0"
+authors:
+  - family-names: "Mishra"
+    given-names: "Shailendra"
+    email: "s.mishra@mu.edu.sa"
+    affiliation: "Majmaah University"
+  - family-names: "Rathi"
+    given-names: "Megha"
+    affiliation: "Jaypee Institute of Information Technology"
+  - family-names: "Mishra"
+    given-names: "Saumya"
+    affiliation: "MNNIT Allahabad"
+  - family-names: "Srivastava"
+    given-names: "Saumitya"
+    affiliation: "Jaypee Institute of Information Technology"
+  - family-names: "Almuteri"
+    given-names: "Wazdan Ali"
+    affiliation: "Majmaah University"
+keywords:
+  - Multi-agent systems
+  - Memory poisoning
+  - Canary verification
+  - Graph neural networks
+  - Self-supervised learning
+  - Intrusion detection
+license: MIT
+repository-code: "https://github.com/SaumityaSrivastava/madgdf"

@@ -1,0 +1,7 @@
+﻿Evaluation source,"Evasion rate, (e)",FULL,NO_GNN,NO_CANARY,BASELINE
+All datasets,0.00–0.75,1.00,1.00,1.00,1.00
+SwarmBench-32,1.00,1.00,0.00,1.00,1.00
+SwarmBench-250,1.00,1.00,0.00,1.00,1.00
+ToolBench,1.00,1.00,0.00,1.00,1.00
+tau-bench,1.00,1.00,0.00,1.00,1.00
+SWE-agent,1.00,1.00,0.00,1.00,1.00

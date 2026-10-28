@@ -1,0 +1,62 @@
+{
+  "title": "MADGDF: Dual-Channel Detection of Memory Poisoning in Multi-Agent Systems Using Graph-State Monitoring and Canary Verification",
+  "upload_type": "software",
+  "description": "MADGDF is a dual-channel detection framework for memory poisoning attacks in multi-agent systems. It integrates a self-supervised two-layer Graph Convolutional Network (GCN) trained via link prediction on clean warm-up data with a shadow-memory canary verification channel. The two channels are fused by logical OR. The archive contains the complete experimental notebook (post-review time-causal pipeline), result tables, figures, and supporting code that reproduce the detection-rate, MPAR, FPR and latency results reported in the accompanying manuscript across five evaluation sources (SwarmBench-32, SwarmBench-250, ToolBench, tau-bench, SWE-agent) and five canary-evasion rates.",
+  "creators": [
+    {
+      "name": "Mishra, Shailendra",
+      "affiliation": "Department of Computer Engineering, College of Computer and Information Sciences, Majmaah University, Al-Majmaah 11952, Saudi Arabia",
+      "orcid": ""
+    },
+    {
+      "name": "Rathi, Megha",
+      "affiliation": "Department of Computer Science and Engineering, Jaypee Institute of Information Technology, Noida, India",
+      "orcid": ""
+    },
+    {
+      "name": "Mishra, Saumya",
+      "affiliation": "Department of Computer Science and Engineering, Prayagraj, Allahabad, India",
+      "orcid": ""
+    },
+    {
+      "name": "Srivastava, Saumitya",
+      "affiliation": "Department of Computer Science and Engineering, Jaypee Institute of Information Technology, Noida, India",
+      "orcid": ""
+    },
+    {
+      "name": "Almuteri, Wazdan Ali",
+      "affiliation": "College of Computer and Information Sciences, Majmaah University, Al-Majmaah 11952, Saudi Arabia",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "Multi-agent systems",
+    "Memory poisoning",
+    "Canary verification",
+    "Graph neural networks",
+    "Self-supervised learning",
+    "Intrusion detection",
+    "Graph-state monitoring",
+    "Shadow memory",
+    "LLM agents",
+    "Cybersecurity"
+  ],
+  "version": "1.0.0",
+  "language": "eng",
+  "license": "mit",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/SaumityaSrivastava/madgdf",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://colab.research.google.com/drive/116DnjlyGZpn5KDHjtKruMKczVE3p04tg?usp=sharing",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "communities": [],
+  "access_right": "open",
+  "notes": "Replace PLACEHOLDER DOI in README.md after Zenodo publishes the record. Authors should add verified ORCID identifiers if available. Do not invent ORCID IDs."
+}
